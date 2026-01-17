@@ -1,6 +1,6 @@
 # 🛠️ InstallForge - installer builder for Windows
 InstallForge is a lightweight and comfortable powerful installer builder that allows you to create professional Windows setup packages with ease. It focuses on simplicity, flexibility, and speed, making installer creation accessible without requiring scripting or complex configuration.
-# [Get a version of InstallForge from Releases](https://github.com/DreamPack-Software/releases)
+# [Get a version of InstallForge from Releases](https://github.com/DreamPack-Software/InstallForge/releases)
 ## 🚀 Features
 ---
 📦 Create fully customizable Windows installers
